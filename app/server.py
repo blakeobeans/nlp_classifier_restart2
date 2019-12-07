@@ -9,8 +9,8 @@ from fastai import *
 # from fastai.vision import *
 from fastai.text import *
 
-export_file_url = 'https://drive.google.com/file/d/1-3TEgcbSePWaDVxxeCfKMxYnvAE7Jwru/view?usp=sharing'
-# export_file_url = 'https://drive.google.com/file/d/1-3TEgcbSePWaDVxxeCfKMxYnvAE7Jwru/view?usp=sharing'
+export_file_url = 'https://www.dropbox.com/s/z1bhc47wav276cy/classifier_model.pkl?dl=1'
+# export_file_url = 'https://www.dropbox.com/s/z1bhc47wav276cy/classifier_model.pkl?dl=1'
 export_file_name = 'classifier_model.pkl'
 # added comment
 classes = ['neg', 'pos']
